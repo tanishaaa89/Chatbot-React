@@ -1,15 +1,23 @@
-# Rodic AI Chatbot
+#AI Chatbot
 
-A React.js-based chatbot integrated with Gemini API to assist users with real-time information about Rodic Consultants Pvt. Ltd.
+A React.js chatbot powered by Gemini API, built to assist users with 
+real-time information about Rodic Consultants Pvt. Ltd.
+
+## Tech Stack
+React.js · Gemini API · Vite
 
 ## Features
-- React-based UI
-- Gemini-powered responses
-- Integrated company-specific data
-- Ready for web embedding
+- Conversational UI built with React.js
+- Gemini-powered natural language responses
+- Trained on company-specific documentation for accurate query resolution
+- Embeddable via iframe or direct React DOM integration
 
-## Deployment
-This chatbot can be embedded into any website using iframe or mounted directly into existing React DOM.
+## Setup
+Create a `.env` file in the root directory: VITE_API_URL=your_api_key_here
+
+Then run:
+npm install
+npm run dev
 
 ## Author
-Tanisha Sharma – Intern, Tech Innovation Team @ Rodic
+Tanisha Sharma — Tech Innovation Intern, Rodic Consultants Pvt. Ltd.
