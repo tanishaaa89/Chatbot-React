@@ -1,4 +1,4 @@
-#AI Chatbot
+# AI Chatbot
 
 A React.js chatbot powered by Gemini API, built to assist users with 
 real-time information about Rodic Consultants Pvt. Ltd.
